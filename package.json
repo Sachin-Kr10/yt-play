@@ -1,0 +1,15 @@
+{
+  "name": "yt-play",
+  "version": "1.0.0",
+  "description": "video streaming platform",
+  "keywords": [
+    "video"
+  ],
+  "license": "ISC",
+  "author": "Sachin",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
